@@ -104,7 +104,7 @@ export default function FormPost({ onSuccess, onClose }: AddPostFormProps) {
 
       {error && (
         <ConfirmModal
-          isOpen={!!error}
+          isOpen={error}
           onClose={() => setError(null)}
           onConfirm={() => setError(null)}
           message={error}
