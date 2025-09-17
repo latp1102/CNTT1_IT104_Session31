@@ -1,0 +1,57 @@
+{
+  "posts": [
+    {
+      "id": 2,
+      "title": "Tổng quan về ReactJS",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/React_Logo_SVG.svg/1200px-React_Logo_SVG.svg.png",
+      "date": "2024-03-03",
+      "status": "published",
+      "content": "Giới thiệu ReactJS"
+    },
+    {
+      "title": "j",
+      "image": "kk",
+      "content": "k",
+      "date": "2025-09-17T09:30:33.318Z",
+      "status": "published",
+      "id": 3
+    },
+    {
+      "title": "p",
+      "image": "kk",
+      "content": "kpp",
+      "date": "2025-09-17T09:30:56.897Z",
+      "status": "published",
+      "id": 4
+    },
+    {
+      "title": "o",
+      "image": "l",
+      "content": "p",
+      "date": "2025-09-17T09:31:54.837Z",
+      "status": "published",
+      "id": 5
+    },
+    {
+      "title": "m",
+      "image": "l",
+      "content": "p",
+      "date": "2025-09-17T09:32:03.836Z",
+      "status": "published",
+      "id": 6
+    }
+  ],
+  "postss": [
+    {
+      "id": 2,
+      "title": "Tổng quan về ReactJS",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/React_Logo_SVG.svg/1200px-React_Logo_SVG.svg.png",
+      "date": "2024-03-03",
+      "status": "published",
+      "content": "Giới thiệu ReactJS"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
